@@ -1,0 +1,16 @@
+C:\Users\Omer Haciyev\source\repos\Car_Racing\Car_Racing\obj\Debug\net5.0\Car_Racing.csprojAssemblyReference.cache
+C:\Users\Omer Haciyev\source\repos\Car_Racing\Car_Racing\obj\Debug\net5.0\Car_Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer Haciyev\source\repos\Car_Racing\Car_Racing\obj\Debug\net5.0\Car_Racing.AssemblyInfoInputs.cache
+C:\Users\Omer Haciyev\source\repos\Car_Racing\Car_Racing\obj\Debug\net5.0\Car_Racing.AssemblyInfo.cs
+C:\Users\Omer Haciyev\source\repos\Car_Racing\Car_Racing\obj\Debug\net5.0\Car_Racing.csproj.CoreCompileInputs.cache
+C:\Users\Omer Haciyev\source\repos\Car_Racing\Car_Racing\bin\Debug\net5.0\Car_Racing.exe
+C:\Users\Omer Haciyev\source\repos\Car_Racing\Car_Racing\bin\Debug\net5.0\Car_Racing.deps.json
+C:\Users\Omer Haciyev\source\repos\Car_Racing\Car_Racing\bin\Debug\net5.0\Car_Racing.runtimeconfig.json
+C:\Users\Omer Haciyev\source\repos\Car_Racing\Car_Racing\bin\Debug\net5.0\Car_Racing.runtimeconfig.dev.json
+C:\Users\Omer Haciyev\source\repos\Car_Racing\Car_Racing\bin\Debug\net5.0\Car_Racing.dll
+C:\Users\Omer Haciyev\source\repos\Car_Racing\Car_Racing\bin\Debug\net5.0\ref\Car_Racing.dll
+C:\Users\Omer Haciyev\source\repos\Car_Racing\Car_Racing\bin\Debug\net5.0\Car_Racing.pdb
+C:\Users\Omer Haciyev\source\repos\Car_Racing\Car_Racing\obj\Debug\net5.0\Car_Racing.dll
+C:\Users\Omer Haciyev\source\repos\Car_Racing\Car_Racing\obj\Debug\net5.0\ref\Car_Racing.dll
+C:\Users\Omer Haciyev\source\repos\Car_Racing\Car_Racing\obj\Debug\net5.0\Car_Racing.pdb
+C:\Users\Omer Haciyev\source\repos\Car_Racing\Car_Racing\obj\Debug\net5.0\Car_Racing.genruntimeconfig.cache
